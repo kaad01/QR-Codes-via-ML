@@ -1,0 +1,12 @@
+names:
+- QR_CODE
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: qr-codes-detection
+  url: https://universe.roboflow.com/roboflow-qsmu6/qr-codes-detection/dataset/2
+  version: 2
+  workspace: roboflow-qsmu6
+test: test/images
+train: train/images
+val: valid/images
